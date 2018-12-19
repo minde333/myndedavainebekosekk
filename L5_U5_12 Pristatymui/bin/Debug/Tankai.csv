@@ -1,0 +1,15 @@
+﻿Herojai
+Vardas;Klasė;Gyvybės taškai;Mana;Žalos taškai;Gynybos taškai;Jėga;Vikrumas;Intelektas;Ypatinga galia
+Aras ;abatas    ;       100;        80;        35;        50;40        ;30        ;60        ;   fokusai
+Antabas;brokolis  ;       100;        65;        35;        50;40        ;30        ;45        ;   fokusai
+Rudgi;magas     ;       101;        80;        35;        50;40        ;30        ;50        ;   fokusai
+
+NPC
+Vardas;Klasė;Gyvybės taškai;Mana;Žalos taškai;Gynybos taškai;Gildija
+Rudges;magas     ;       100;        60;        55;        65;Vakaras   
+Asososos;arklys    ;       100;        80;        85;        65;Vakaras   
+Atro ;burėjas   ;       102;        55;        35;        50;Rare      
+Bucky;magas     ;       102;        80;        60;        50;Rytas     
+Beta ;burėjas   ;       102;        60;        35;        50;Leto      
+Atro ;burėjas   ;       102;        55;        80;        50;Rare      
+Rudges;magas     ;       100;        60;        85;        65;Vakaras   
